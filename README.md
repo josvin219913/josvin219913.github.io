@@ -34,7 +34,6 @@
   </ul>
   <p class="head">Experience</p>
   <ul>
-    <a href="https://">
     <li>sales experience in supermarket</li>
     <li>sales experience in bakery/restaurants</li>
   </ul>
