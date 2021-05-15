@@ -20,7 +20,8 @@
   <p class="head">Skills</p>
   <ul>
     <li>Web Design with HTML & CSS</li>
-    <li>leadership</li>
+    <li>Leadership</li>
+    <li>Problem Solving Skills </li>
   </ul>
   <p class="head">Education</p>
   <ul>
@@ -33,7 +34,9 @@
   </ul>
   <p class="head">Experience</p>
   <ul>
-    <li>none</li>
+    <a href="https://">
+    <li>sales experience in supermarket</li>
+    <li>sales experience in bakery/restaurants</li>
   </ul>
   <p class="head">Extracurriculars</p>
   <ul>
